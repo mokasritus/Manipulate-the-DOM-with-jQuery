@@ -1,0 +1,25 @@
+h1 {
+  color: red;
+}
+
+h2, h3 {
+  color: purple;
+  font-weight: bolt;
+}
+
+.text {
+  width: 450px
+}
+
+.purple {
+  color: purple;
+  text-decoration: underline;
+}
+
+.underlined {
+  text-decoration: underline;
+}
+
+.bold {
+  font-weight: bold;
+}
